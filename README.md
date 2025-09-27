@@ -1,4 +1,7 @@
-# FastMCP Server Template 🤖
+# QuickStart MCP
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9f17209-7b24-4619-a2ce-a6f10d69450e" />
+
 
 **Template para crear servidores MCP usando FastMCP de forma rápida y estructurada.**
 
